@@ -1,0 +1,11 @@
+{
+  "name": "rename",
+  "version": "1.0.0",
+  "description": "All mods will be in this folder, with the structure mods/modname/xxxx\r In your modname folder will be your modname.mod file and a directory structure matching the one in /data/ if you want to override any art files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
